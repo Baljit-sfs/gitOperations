@@ -26,4 +26,10 @@ function App() {
 
 export default App;
 
+<<<<<<< HEAD
 // this is the master branch changes
+=======
+
+
+// this is the changes for test 1 branch
+>>>>>>> test1
